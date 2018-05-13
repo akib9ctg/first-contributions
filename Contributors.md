@@ -4,5 +4,5 @@
 - [Md. Mahedee Hasan](https://github.com/mahedee)
 - [Mahfuza Humayra Mohona](https://github.com/mhmohona)
 - [Kamrul Hasan](https://github.com/kamruldotnet)
-- [Ahasanul Kalam Akib](https://github.com/akibctg)
-- [Ahasanul Kalam Akib2](https://github.com/akibctg1)
+- [Ahasanul Kalam Akib](https://github.com/akib9ctg)
+
